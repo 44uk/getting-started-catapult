@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "name": "examples",
+  "version": "0.0.1",
+  "description": "Getting started Catapult",
+  "keywords": [
+    "nem",
+    "nem2",
+    "catapult"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/44uk/getting-started-catapult.git"
+  },
+  "author": "Yoshiyuki Ieyama",
+  "license": "MIT",
+  "dependencies": {
+    "js-sha3": "^0.8.0",
+    "nem2-sdk": "0.13.0",
+    "ripemd160": "^2.0.2",
+    "rxjs": "^6.5.2"
+  }
+}
